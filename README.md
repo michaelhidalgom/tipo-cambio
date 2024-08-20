@@ -7,7 +7,8 @@
 
 3. Para realizar la solicitud de cambio, se debe ingresar el token
    de acceso
-![image](https://github.com/user-attachments/assets/8080f700-90bd-446e-9ab8-21a7e31f9624)
+![image](https://github.com/user-attachments/assets/30e74b64-7577-4bab-ae8f-419a044b792f)
+
 
 4. Se ingresan los datos de cambio, se realiza la solicitud y se recibe
    la respuesta esperada
