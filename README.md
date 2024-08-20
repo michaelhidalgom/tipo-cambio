@@ -12,9 +12,6 @@
 
 4. Se ingresan los datos de cambio, se realiza la solicitud y se recibe
    la respuesta esperada
-![image](https://github.com/user-attachments/assets/a083305f-ed0a-423f-b4c4-2eb3675cea75)
-
-
 ![image](https://github.com/user-attachments/assets/311080c8-4da3-4d3a-bde5-bd770b6152ba)
 
    
